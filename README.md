@@ -2,8 +2,6 @@
 
 A **learning-oriented** Python application designed to demonstrate **asynchronous programming** concepts using real-world stock portfolio analysis.
 
-## Learning Objectives
-
 This project was specifically created to learn and demonstrate:
 - **Asynchronous Programming** with `asyncio`
 - **Concurrent API calls** for improved performance
